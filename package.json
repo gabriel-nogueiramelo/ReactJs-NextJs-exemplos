@@ -2,12 +2,21 @@
   "name": "reacjs-nextjs-exemplo",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-nogueiramelo/ReactJs-NextJs-exemplos.git~.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-nogueiramelo/ReactJs-NextJs-exemplos.git~/issues"
+  },
+  "homepage": "https://github.com/gabriel-nogueiramelo/ReactJs-NextJs-exemplos.git~#readme",
   "dependencies": {
     "next": "^12.0.7",
     "react": "^17.0.2",
