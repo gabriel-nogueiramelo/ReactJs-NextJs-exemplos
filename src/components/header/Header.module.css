@@ -1,0 +1,13 @@
+.header {
+  min-height: 80vh;
+  display: flex;  
+  align-items: center;
+  background: url('https://sejadev-web-app-public-files.s3.amazonaws.com/courses/coffee1.jpg');
+  background-position: center;
+  background-repeat: no repeat;
+  background-size: cover; 
+}
+
+.headerContent {
+  padding-left: 60px;
+}
